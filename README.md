@@ -21,9 +21,9 @@
 * [Stake](#stake-statistic)
 * [Total Supply](#total-supply-statistic)
 
-A BITSTASH blockchain REST and web socket API service for [BITSTASHCORE Node](https://github.com/BITSTASH/bitstashcore-node).
+A BITSTASH blockchain REST and web socket API service for [BITSTASHCORE Node](https://github.com/BitStashBlockchain/bitstashcore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/BITSTASH/bitstash-explorer.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/BitStashBlockchain/bitstash-explorer.
 
 ## Getting Started
 
